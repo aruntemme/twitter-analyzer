@@ -2,7 +2,7 @@
 
 A full-stack web application that analyzes your Twitter community's writing patterns and generates similar tweets using AI. Perfect for content creators, marketers, and anyone wanting to maintain a consistent voice on Twitter.
 
-![Screenshot placeholder - add your app screenshot here]
+![Screenshot](public/home.png)
 
 ## What it does
 
